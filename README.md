@@ -17,4 +17,4 @@ Results: Evaluation Metric : Accuracy on test data: 81 %
 
 Below are the loss and accuracy on validation and test dataset. Here test loss = validation and eval loss = test
 
-![]data.png)
+![](data.png)
