@@ -18,3 +18,5 @@ Results: Evaluation Metric : Accuracy on test data: 81 %
 Below are the loss and accuracy on validation and test dataset. Here test loss = validation and eval loss = test
 
 ![](data.png)
+
+Conclusion: The results for this task using CNN Classifier shows good performance in terms of accuracy with 81% on test dataset. This can be improved further and optimized using large training dataset. Additionally, the training images can be pre-processed using image processing libraries and packages which will further enhance the testing results.
