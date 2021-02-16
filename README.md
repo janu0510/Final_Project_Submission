@@ -12,3 +12,9 @@ Dataset: Honey Bee and Bumble Bee
 Training Samples : 1904 ⦁ Testing Samples : 794 ⦁ Validation Samples: 1270
 
 Results: Evaluation Metric : Accuracy on test data: 81 %
+
+![](https://github.com/prajaktaghodake90/bee_classification_CNN/blob/main/bee_samples_dataset/NP4050-41r.jpg)
+
+Below are the loss and accuracy on validation and test dataset. Here test loss = validation and eval loss = test
+
+![](https://github.com/prajaktaghodake90/bee_classification_CNN/blob/main/bee_samples_dataset/NP4050-41r.jpg)
